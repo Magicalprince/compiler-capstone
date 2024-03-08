@@ -3,3 +3,4 @@
 ![Screenshot 2024-03-07 060446](https://github.com/Magicalprince/compiler-capstone/assets/129185964/4c3402ae-cc50-4037-8efc-7a8f41b370ce)
 ![Screenshot 2024-03-07 060424](https://github.com/Magicalprince/compiler-capstone/assets/129185964/fe2ffe36-946a-480e-a9d7-9d4ea2ea1f28)
 [Optimizing Regular Expression for Lexical analysis.docx](https://github.com/Magicalprince/compiler-capstone/files/14525190/Optimizing.Regular.Expression.for.Lexical.analysis.docx)
+[(PPT)Optimizing Regular Expression For Lexical Analysis.pptx](https://github.com/Magicalprince/compiler-capstone/files/14532813/PPT.Optimizing.Regular.Expression.For.Lexical.Analysis.pptx)
